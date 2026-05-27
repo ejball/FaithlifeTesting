@@ -1,6 +1,6 @@
 # Faithlife.Testing
 
-[![Build](https://github.com/Faithlife/FaithlifeTesting/workflows/Build/badge.svg)](https://github.com/Faithlife/FaithlifeTesting/actions?query=workflow%3ABuild) [![NuGet](https://img.shields.io/nuget/v/Faithlife.Testing.svg)](https://www.nuget.org/packages/Faithlife.Testing)
+[![NuGet](https://img.shields.io/nuget/v/Faithlife.Testing.svg)](https://www.nuget.org/packages/Faithlife.Testing)
 
 `Faithlife.Testing` uses the power of C# expression trees to help pinpoint exactly why your assertions are failing.
 
